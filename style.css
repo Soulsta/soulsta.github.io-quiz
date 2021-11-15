@@ -1,0 +1,29 @@
+.wholequiz{
+    border-radius: 5px;
+    background-color: plum;
+    padding: 20px;
+    width: 50%;
+    margin: auto;
+    border: 3px solid black;
+ padding: 12px;
+
+}
+    .questions1{
+    border: 3px solid black;
+    padding: 4px;    
+    }
+    .questions2{
+        border: 3px solid black;
+        padding: 3px;
+    } 
+        .questions3{
+            border: 3px solid black;
+           padding:3px;    
+        }
+            .questions4{
+                border: 3px solid black;
+                padding:3px;    
+            }  .questions5{
+                    border: 3px solid black;
+                    padding:3px;
+                }
